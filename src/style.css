@@ -1,7 +1,9 @@
-body {
-    background-color: aqua;
-}
 h1 {
     background: black;
     max-width: 1200px;
+}
+
+span {
+    color: red;
+    border: 1px solid blue;
 }
